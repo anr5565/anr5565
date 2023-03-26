@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @anr5565
 - Alexis Nicole Rowland
-- 👀 I’m interested in anything with computers, gaming, and graphic design!
-- 🌱 I’m currently learning Java and some certifications
-- 💞️ I’m looking to collaborate on projects that will help boost my skillset. 
+- Currently a student at Penn State Abington (Information Sciences and Tech; Design and Development)
+- 🌱 I’m currently learning Java, Python, and working on my A+ Certification.  
 - 📫 How to reach me: via email (lexir324@outlook.com)
 
 <!---
